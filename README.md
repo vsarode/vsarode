@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on Backend Technologies
-- 🌱 I’m currently learning Kotlin, Go, Distributed Systems
+- 🌱 I’m currently learning Java, Kotlin, Go, Distributed Systems
 - 👯 I’m looking to collaborate on 
 - 🤔 I’m looking for help with python
 - 💬 Ask me about python
